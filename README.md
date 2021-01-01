@@ -1,8 +1,10 @@
 LEEME!
 ======
 
-El archivo README
+El archivo README **!
 ------------------
+
+otra prueba para ver el git diff
 
 Hola esto es un cambio para el repositorio
 
@@ -57,4 +59,4 @@ Ejemplo de un **objeto** en formato JSON"
 - [Formato JSON (wikipedia)](https://es.wikipedia.org/wiki/JSON)
 - [Formato Markdown (wikipedia)](https://es.wikipedia.org/wiki/Markdown)
 - [Atajos de teclado para VSCODE (PDF)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
-- [Lenguaje Javascript (wikipedia)](https://es.wikipedia.org/wiki/JavaScript).
+- [Lenguaje Javascript (wikipedia)](https://es.wikipedia.org/wiki/JavaScript).#FIN
