@@ -60,3 +60,5 @@ Ejemplo de un **objeto** en formato JSON"
 - [Formato Markdown (wikipedia)](https://es.wikipedia.org/wiki/Markdown)
 - [Atajos de teclado para VSCODE (PDF)](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - [Lenguaje Javascript (wikipedia)](https://es.wikipedia.org/wiki/JavaScript).#FIN
+
+enviar pull request a remote/origin
